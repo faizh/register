@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041898095092",
+    "firebase_url": "https://registerform-8b624.firebaseio.com",
+    "project_id": "registerform-8b624",
+    "storage_bucket": "registerform-8b624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041898095092:android:6f62e8c53b38a8d7",
+        "android_client_info": {
+          "package_name": "com.example.user.registerform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041898095092-lavpcfje39fj7kulmjnoct30ujgd7pbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-JAcaZiauNFbWBID8hRj8YcFFoWiNJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
